@@ -1,5 +1,5 @@
 {
-    "name": "ethny-build",
+    "name": "ethny-build-test",
     "version": "1.0.0",
     "description": "A package to run ethernity cloud build scripts",
     "scripts": {
