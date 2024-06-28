@@ -1,0 +1,17 @@
+{
+    "name": "ethny-build",
+    "version": "1.0.0",
+    "description": "A package to run ethernity cloud build scripts",
+    "scripts": {
+      "ethny-build": "ethny-build"
+    },
+    "bin": {
+      "ethny-build": "./build.sh"
+    },
+    "files": [
+      "build.sh",
+      "src/"
+    ],
+    "author": "Alex Luca",
+    "license": "ISC"
+  }
